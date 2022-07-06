@@ -14,8 +14,7 @@ padding: 50px;
 background-color: antiquewhite;
   }
 
-  .second
-  :hover{
+  .second:hover{
     color: aqua;
     font-size: 50px;
   }
